@@ -17,11 +17,11 @@ variable "vpc_cidr" {
 }
 
 variable "access_key" {
-  default = "AKIA2YKDJVMP4RP6KRVO"
+  default = ""
 }
 
 variable "secret_key" {
-  default = "DJGG1JOVe3zvYlrkbuWrw4a4p34nZVLZCrCqUdEi"
+  default = ""
 }
 
 
